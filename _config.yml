@@ -1,9 +1,9 @@
 permalink: /:year:month:day/:title
 url: #nikorekhviashvili.github.io
-baseurl: 
+baseurl: windows-95
 
 # variables
-name: Your Site Name
+name: Nikos Portfolio
 description: Your description here
 google_verification: null
 

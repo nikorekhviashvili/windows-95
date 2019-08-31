@@ -1,6 +1,9 @@
 permalink: /:year:month:day/:title
 url: #nikorekhviashvili.github.io
-baseurl: windows-95
+baseurl: /windows-95
+newbaseurl: /windows-95
+
+
 
 # variables
 name: Nikos Portfolio
